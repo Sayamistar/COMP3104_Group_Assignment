@@ -1,0 +1,1 @@
+DevOps is fast emerging as a great way to build and deploy applications
