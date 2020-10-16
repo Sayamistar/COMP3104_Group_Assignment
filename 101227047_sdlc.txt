@@ -1,2 +1,3 @@
 This is sdlc
 Software development cycle
+Want to study more about sdlc
