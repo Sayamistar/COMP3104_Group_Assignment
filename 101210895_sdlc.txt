@@ -2,3 +2,5 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 DevOps is complementary with Agile software development; several DevOps aspects came from Agile methodology.
 
 Academics and practitioners have not developed a unique definition for the term "DevOps".[a][b][c][d]
+
+In 2009, the first conference named devopsdays was held in Ghent, Belgium. The conference was founded by Belgian consultant, project manager and agile practitioner Patrick Debois.[8][who?][9] The conference has now spread to other countries.[10]
