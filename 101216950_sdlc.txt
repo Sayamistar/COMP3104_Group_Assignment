@@ -1,1 +1,10 @@
-The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. 
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development:
+
+Requirement analysis
+Planning
+Software design such as architectural design
+Software development
+Testing
+Deployment
+
+This article will explain how SDLC works, dive deeper in each of the phases, and provide you with examples to get a better understanding of each phase.
