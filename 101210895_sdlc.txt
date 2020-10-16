@@ -4,3 +4,5 @@ DevOps is complementary with Agile software development; several DevOps aspects 
 Academics and practitioners have not developed a unique definition for the term "DevOps".[a][b][c][d]
 
 In 2009, the first conference named devopsdays was held in Ghent, Belgium. The conference was founded by Belgian consultant, project manager and agile practitioner Patrick Debois.[8][who?][9] The conference has now spread to other countries.[10]
+
+In 2012, the State of DevOps report was conceived and launched by Alanna Brown at Puppet.[11][12] As of 2014, the annual State of DevOps report was published by Nicole Forsgren, Gene Kim, Jez Humble and others.[13][14] In 2014, they found that DevOps adoption was accelerating.[13] Also in 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.[15][16]
