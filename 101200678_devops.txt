@@ -1,4 +1,4 @@
 COMP 3104 - DevOps course
 Credit Hour: 3
-Style: Theory + Combine
+Theory + Combine
 Medium: Online Delivery
