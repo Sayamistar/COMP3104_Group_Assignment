@@ -2,3 +2,4 @@ DevOps engineer has a very important role in SDLC.
 
 They support the entire process of SDLC.
 
+Thus they should have a good knowledge on every aspect of SDLC.
