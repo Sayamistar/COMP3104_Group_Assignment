@@ -1,1 +1,1 @@
-DevOps is fast emerging as a great way to build and deploy applications that can run both on-premise and cloud alike. DevOps is a philosophy that attempts to bridge the gap between application development and operations 
+DevOps is fast emerging as a great way to build and deploy applications that can run both on-premise and cloud alike. DevOps is a philosophy that attempts to bridge the gap between application development and operations  for better productivity and reduced costs, risks, and cycle times
