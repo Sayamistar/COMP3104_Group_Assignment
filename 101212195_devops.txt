@@ -1,2 +1,4 @@
 DevOps course in GBC is cool. I like it very much.
 
+We are learning GitHub right now in this course.
+
